@@ -1,8 +1,8 @@
-# polymorphism
+# Polymorphism in OOP
 
 Polymorphism (from the Greek meaning 'many bodies') is one of the central tenets of object oriented programming. 
 
-The ideas presented here are around inheritence, but that inherited (or derived) classes can be considered instances of base classes, but that methods can be overridden and 'show through' even when the instance of a derived class is being used as if it were an instance of a base class. Keywords to use and understand are `base`, `abstract`, `virtual`, `override`, `new`. 
+The ideas presented here are around inheritence, but that inherited (or derived) classes can be considered instances of base classes, but that methods can be overridden and 'show through' even when the instance of a derived class is being used as if it were an instance of a base class. Virtual methods can be overidden, normal methods are hidden with new overloads. Keywords to use and understand are `base`, `abstract`, `virtual`, `override`, `new`. 
 
 Re-read that previous paragraph. When it makes sense, you will be in a good place. 
 
@@ -13,7 +13,7 @@ The code in the solution in this repo is based on the example on the MSDN articl
 
 ### References 
 
-See also  
+See also Bond 1 pp 148-153. 
 
 ### Exercise 
 
